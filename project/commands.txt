@@ -1,0 +1,14 @@
+git commit -m "statement"
+git log (history)
+git status(modified or not)
+git diff filename
+gid add filename
+git checkout file name(revert the changes)
+mkdir name
+touch file name
+git branch
+gir branch newbranch name
+git checkout newbranch name [command to a new branch]
+git add . [to add all the newly crated files]
+git branch -d branchname
+git ignore [But sometimes you need to ignore files if you aren't making changes]
